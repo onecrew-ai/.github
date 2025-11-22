@@ -1,1 +1,90 @@
-OneCrew Intelligence<div align="center"><!-- Replace with your logo URL later --><img src="https://www.google.com/search?q=https://via.placeholder.com/150%3Ftext%3DOneCrew.ai" alt="OneCrew Logo" width="120" height="120"><h3>One Crew. One Mission. Infinite Impact.</h3><p><b>Bringing Mars-grade engineering down to Earth.</b>We are building the future of autonomous hospitality robotics.</p><!-- Badges --><a href="https://onecrew.ai"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-onecrew.ai-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-earth" alt="Website"></a><a href="mailto:contact@onecrew.ai"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Contact-Email%2520Us-black%3Fstyle%3Dfor-the-badge%26logo%3Dgmail" alt="Email"></a></div>🚀 Who We AreWe are OneCrew Intelligence, a tight-knit team of engineers who forged our bond at the MARS Research Station. We spent our early days building rovers for the red planet; now, we are applying that same rigor, autonomy, and reliability to solve complex human-robot interaction challenges on Earth.Our philosophy is simple: AI should serve humanity seamlessly. We are starting by revolutionizing the hospitality industry—deploying autonomous agents that bridge the gap between service staff and guests.🛠️ Our Tech StackWe believe in minimal tools and maximum efficiency. We build fast, we build right, and we verify everything.<div align="center"><!-- Tech Stack Badges --><img src="https://www.google.com/search?q=https://img.shields.io/badge/ROS2-Humble-22314E%3Fstyle%3Dflat-square%26logo%3Dros%26logoColor%3Dwhite" alt="ROS 2" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Language-Python_3.10-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Language-C%2B%2B-00599C%3Fstyle%3Dflat-square%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Simulation-Gazebo-orange%3Fstyle%3Dflat-square%26logo%3Dgazebo%26logoColor%3Dwhite" alt="Gazebo" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Hardware-Raspberry_Pi-C51A4A%3Fstyle%3Dflat-square%26logo%3Draspberry-pi%26logoColor%3Dwhite" alt="Raspberry Pi" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Design-Fusion_360-F57423%3Fstyle%3Dflat-square%26logo%3Dautodesk%26logoColor%3Dwhite" alt="Fusion 360" /></div>📡 Our Engineering ValuesOne Crew, One Mind: We move as a unit. We communicate early and unblock each other instantly.Verification-Driven Development: If it's not tested, it doesn't exist. We define our success criteria before we write code.Mars-Grade Reliability: We build systems designed to run unsupervised. "Good enough" isn't good enough when you're autonomous.Speed through Simplicity: We don't over-engineer. We use the simplest tool that solves the problem and allows us to ship.🎯 Current Mission: Project VestaWe are currently Heads-Down building V1.0 of our Hospitality Interaction Robot.Phase: Q1 MVP (Proving the Core Concept)Focus: Autonomous Navigation & Basic HRIStatus: 🏗️ In Active Development🤝 Join the CrewWe are currently a closed core team, but we are always looking for passionate collaborators, mentors, and future crew members who share our vision.Investors/Partners: Reach out to discuss our roadmap to seed funding.Engineers: Check our public repositories (coming soon) for contribution guidelines.<div align="center"><sub>© 2024 OneCrew Intelligence. Built with passion, code, and coffee.</sub></div>
+# 🚀 OneCrew Intelligence
+
+<div align="center">
+  <!-- Replace with your logo URL -->
+  <img src="https://via.placeholder.com/150?text=OneCrew.ai" width="120" height="120" alt="OneCrew Logo"/>
+
+  <h3><b>One Crew. One Mission. Infinite Impact.</b></h3>
+  <p><b>Bringing Mars-grade engineering down to Earth.</b><br/>
+  Building the future of autonomous hospitality robotics.</p>
+
+  <a href="https://onecrew.ai">
+    <img src="https://img.shields.io/badge/Website-onecrew.ai-blue?style=for-the-badge&logo=google-earth" />
+  </a>
+  <a href="mailto:contact@onecrew.ai">
+    <img src="https://img.shields.io/badge/Email-contact%40onecrew.ai-black?style=for-the-badge&logo=gmail" />
+  </a>
+</div>
+
+---
+
+## 🌌 Who We Are
+
+We are **OneCrew Intelligence**, a tight-knit engineering team forged at the MARS Research Station.
+
+We spent our early days building autonomous rovers for the red planet.
+Now, we apply that same **rigor, autonomy, and reliability** to solve complex human-robot interaction challenges here on Earth.
+
+Our philosophy: **AI should serve humanity seamlessly.**
+We’re starting with hospitality—deploying autonomous agents that elevate guest experience and empower service teams.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ROS2-Humble-22314E?style=flat-square&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Simulation-Gazebo-orange?style=flat-square&logo=gazebo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hardware-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Design-Fusion%20360-F57423?style=flat-square&logo=autodesk&logoColor=white"/>
+
+</div>
+
+---
+
+## 📡 Engineering Values
+
+**One Crew, One Mind**
+We move as one—communicate early, unblock instantly, and build together.
+
+**Verification-Driven Development**
+If it’s not tested, it doesn’t exist. Requirements define the code, not the other way around.
+
+**Mars-Grade Reliability**
+Systems should run unsupervised. “Good enough” isn’t for autonomy.
+
+**Speed Through Simplicity**
+We choose the simplest effective solution so we can ship fast and iterate faster.
+
+---
+
+## 🎯 Current Mission: **Project Vesta**
+
+We’re actively building **V1.0 of our Hospitality Interaction Robot**.
+
+* **Phase:** Q1 MVP — validating the core concept
+* **Focus:** Autonomous navigation & foundational HRI
+* **Status:** 🏗️ In active development
+
+---
+
+## 🤝 Join the Crew
+
+We’re currently a focused core team, but we’re always looking to connect with people who share our vision.
+
+**Investors / Partners:**
+Let’s talk about our roadmap toward seed funding.
+
+**Engineers:**
+Public repositories & contribution guidelines coming soon.
+
+---
+
+<div align="center">
+  <sub>© 2024 OneCrew Intelligence — Built with passion, code, and coffee.</sub>
+</div>
+
+---
