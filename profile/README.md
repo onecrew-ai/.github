@@ -6,7 +6,7 @@
 
   <h3><b>One Crew. One Mission. Infinite Impact.</b></h3>
   <p><b>Bringing Mars-grade engineering down to Earth.</b><br/>
-  Building the future of autonomous hospitality robotics.</p>
+  Building the future of AI and Human Interaction.</p>
 
   <a href="https://onecrew.ai">
     <img src="https://img.shields.io/badge/Website-onecrew.ai-blue?style=for-the-badge&logo=google-earth" />
