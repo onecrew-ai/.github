@@ -84,7 +84,7 @@ Public repositories & contribution guidelines coming soon.
 ---
 
 <div align="center">
-  <sub>© 2024 OneCrew Intelligence — Built with passion, code, and coffee.</sub>
+  <sub>© 2025 OneCrew Intelligence — Built with passion, code, and coffee.</sub>
 </div>
 
 ---
